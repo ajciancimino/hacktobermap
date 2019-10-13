@@ -1108,5 +1108,11 @@ var hacktobermap = [
     location: "Coimbatore, Tamil nadu",
     latitude: 11.0168,
     longitude: 76.9558
+  },
+   {
+    name: "AJ Ciancimino",
+    location: "Tampa, Fl",
+    latitude: 27.950575,
+    longitude: -82.457176 
   }
 ];
